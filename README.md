@@ -23,7 +23,6 @@ I decided to participate in <strong>Harvardx CS50</strong> course and also learn
  I am extremly ethusiastic about the upcoming year and ammount of stuff I will learn.</p>
 <h3>Contact and Codewars</h3>
 <p>I am a freshman let's say. I know not much exept some basic consepts so if you stumbled across my profile and want to share something with me I would be very greatful!
-<br>Also here is my <a href="https://www.codewars.com/users/WTCa">Codewar profile</a></p>
 <!---
 WTCa100/WTCa100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
